@@ -1,0 +1,7 @@
+.backgroundImage
+{
+    background-image: url("./img/bgInicio.jpg");
+    width: 100vw !important;
+    height: 100vh !important;
+    padding-top: 2%;
+}
